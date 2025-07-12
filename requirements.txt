@@ -1,0 +1,16 @@
+# Web framework
+Flask==3.0.3
+
+# Azure SDKs (add what you use)
+azure-identity==1.15.0
+azure-storage-blob==12.19.1
+azure-core==1.30.0
+
+# Gunicorn for production WSGI server
+gunicorn==22.0.0
+
+# Optional: Dotenv for managing environment variables
+python-dotenv==1.0.1
+
+# Optional: Requests for HTTP calls
+requests==2.31.0
